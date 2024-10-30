@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avalonia.SampleMusicStore", "Avalonia.SampleMusicStore\Avalonia.SampleMusicStore.csproj", "{7F89CF29-BF55-4F81-80E4-E7D6EF1D80D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMDialogSample", "MVVMDialogSample\MVVMDialogSample.csproj", "{B0DED985-65FD-4909-8067-DC9492BF4B95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVMDialogSample2", "MVVMDialogSample2\MVVMDialogSample2.csproj", "{FB53D298-7D4E-40B7-95F7-19B97C5ABB28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogManagerSample", "DialogManagerSample\DialogManagerSample.csproj", "{0C8FB060-50E2-4D25-8A39-2BC968A3B0A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F89CF29-BF55-4F81-80E4-E7D6EF1D80D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F89CF29-BF55-4F81-80E4-E7D6EF1D80D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F89CF29-BF55-4F81-80E4-E7D6EF1D80D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F89CF29-BF55-4F81-80E4-E7D6EF1D80D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0DED985-65FD-4909-8067-DC9492BF4B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DED985-65FD-4909-8067-DC9492BF4B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DED985-65FD-4909-8067-DC9492BF4B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DED985-65FD-4909-8067-DC9492BF4B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB53D298-7D4E-40B7-95F7-19B97C5ABB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB53D298-7D4E-40B7-95F7-19B97C5ABB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB53D298-7D4E-40B7-95F7-19B97C5ABB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB53D298-7D4E-40B7-95F7-19B97C5ABB28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8FB060-50E2-4D25-8A39-2BC968A3B0A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8FB060-50E2-4D25-8A39-2BC968A3B0A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8FB060-50E2-4D25-8A39-2BC968A3B0A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8FB060-50E2-4D25-8A39-2BC968A3B0A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
